@@ -124,8 +124,6 @@
 
 用户打开APP进入登录页面，点击“去注册”按钮进入注册页面，在页面通过输入手机号码、密码、用户姓名，并选择所属车队后完成注册。
 
-![image](https://user-images.githubusercontent.com/94852986/199878785-89725d6f-13f8-43d4-9a60-238128be8196.png)
-
 ![image](https://user-images.githubusercontent.com/94852986/199878841-3f6cdf56-b164-4b16-8c0f-476f5fcb58bc.png)
 
 
